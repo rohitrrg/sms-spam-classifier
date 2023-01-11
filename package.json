@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/rohitrrg/sms-spam-classifier/issues"
   },
-  "homepage": "https://github.com/rohitrrg/sms-spam-classifier#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/rohitrrg/sms-spam-classifier#readme"
 }
