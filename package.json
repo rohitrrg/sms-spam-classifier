@@ -1,0 +1,22 @@
+{
+  "name": "sms-spam-classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitrrg/sms-spam-classifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitrrg/sms-spam-classifier/issues"
+  },
+  "homepage": "https://github.com/rohitrrg/sms-spam-classifier#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
